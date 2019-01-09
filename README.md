@@ -4,7 +4,7 @@
 
 ## Demonstrate
 
-For a detailed demostration on how things work, check out my site (http://neptoo.github.io/Pos/) .
+For a detailed demostration on how things work, Check out my [site](http://neptoo.github.io/Pos/) !
 
 ## Build Setup
 
